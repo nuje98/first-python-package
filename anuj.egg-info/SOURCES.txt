@@ -1,0 +1,10 @@
+setup.py
+anuj/Binomialdistribution.py
+anuj/Gaussiandistribution.py
+anuj/Generaldistribution.py
+anuj/__init__.py
+anuj.egg-info/PKG-INFO
+anuj.egg-info/SOURCES.txt
+anuj.egg-info/dependency_links.txt
+anuj.egg-info/not-zip-safe
+anuj.egg-info/top_level.txt
